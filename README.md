@@ -29,7 +29,7 @@ The workflow may be cloned into the appropriate directory using the terminal com
 $cd refseq_diffexp_funct_annotation_uconn
 $ls  </pre>
 
-<h2 id="Second_Point_Header">Accessing the data using the sra-toolkit/h2>
+<h2 id="Second_Point_Header">Accessing the data using the sra-toolkit</h2>
 
 We will be downloading our data from the sequence-read-archives (SRA), a comprehensive collection of sequenced genetic data submitted to the NCBI by experimenters. The beauty of the SRA is the ease with which genetic data becomes accessible to any scientist with an internet connection, available for download in a variety of formats. Each run in the SRA has a unique identifier. The run may be downloaded using a module of software called the "sratoolkit" and its unique identifier. There are a variety of commands in the sratoolkit, which I invite you to investigate for yourself at https://www.ncbi.nlm.nih.gov/books/NBK158900/.
 
