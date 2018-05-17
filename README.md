@@ -35,8 +35,8 @@ We will be downloading our data from the sequence-read-archives (SRA), a compreh
 
 The data may be accessed at the following web page: 
 https://www.ncbi.nlm.nih.gov/sra?term=SRP044607<br>
-siCTRL: SRR1635470, SRR1635469, SRR1635468, SRR1635467
-siFOXA1: SRR1635474, SRR1635473, SRR1635472, SRR1635471
+siCTRL: SRR1635470, SRR1635469, SRR1635468, SRR1635467<br>
+siFOXA1: SRR1635474, SRR1635473, SRR1635472, SRR1635471<br>
 
 and downloaded with the sra-toolkit command-line software.
 <br>
